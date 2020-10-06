@@ -1,0 +1,23 @@
+{
+  "name": "dreamcamp",
+  "version": "1.0.0",
+  "description": "yelpcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshkoolwal/DreamCamp.git"
+  },
+  "author": "poojitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devanshkoolwal/DreamCamp/issues"
+  },
+  "homepage": "https://github.com/devanshkoolwal/DreamCamp#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
